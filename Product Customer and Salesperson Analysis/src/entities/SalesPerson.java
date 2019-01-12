@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author harshalneelkamal
+ * @author Sushma Gadepally
  */
 public class SalesPerson {
     private int salesId;

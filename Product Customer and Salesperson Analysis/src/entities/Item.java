@@ -7,7 +7,7 @@ package entities;
 
 /**
  *
- * @author harshalneelkamal
+ * @author Sushma Gadepally
  */
 public class Item {
     int itemId;
