@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  *
- * @author harshalneelkamal
+ * @author Sushma Gadepally
  */
 public class DataReader {
     
